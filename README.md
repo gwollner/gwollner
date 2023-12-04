@@ -4,7 +4,7 @@ I've just created it to showcase my abilities, especially in data analytics and 
 
 ### About me:
 	👨‍💻 6 years working with data for business strategy, finance and operations
- 	📊 Certified in Advanced Data Analysis by preditiva.ai
+ 	📊 Certified in Advanced Data Analysis by Preditiva.ai
 	👨‍🎓 MBA in Engineering Economics at UFRJ
 	👨‍🎓 Undergraduated in Marine Engineering at UFRJ
 
