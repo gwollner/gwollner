@@ -3,9 +3,10 @@
 I've just created it to showcase my abilities, especially in data analytics and visualization, besides contributing to the community.
 
 ### About me:
-	👨‍💻 6 years working with data for business strategy, finance and operations.
-	👨‍🎓 MBA in Engineering Economics at UFRJ.
-	👨‍🎓 Undergraduated in Marine Engineering at UFRJ.
+	👨‍💻 6 years working with data for business strategy, finance and operations
+ 	📊 Certified in Advanced Data Analysis by preditiva.ai
+	👨‍🎓 MBA in Engineering Economics at UFRJ
+	👨‍🎓 Undergraduated in Marine Engineering at UFRJ
 
 
 
